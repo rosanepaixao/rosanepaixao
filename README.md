@@ -3,7 +3,19 @@
 ![423591-unsplash](https://github.com/rosanepaixao/rosanepaixao/assets/133041345/b1db490b-db12-4a86-86b2-49997b2a395f)
 
 
-<p align="center"> Sou uma profissional dedicada e apaixonada por garantir a qualidade de software. Com uma sólida formação em Bacharel em Sistemas de Informação e ampla experiência como Analista deTestes e Qualidade de Software (Q.A), possuo habilidades abrangentes na concepção e execução de planos de teste, identificação de defeitos e colaboração eficaz com equipes de desenvolvimento.  Sou motivada pela busca constante pela excelência e pela entrega de produtos de alta qualidade.<p align="center">
+<p align="center">Sou Analista de Qualidade de Software com experiência em testes funcionais, não-funcionais, exploratórios e automatizados, atuando em projetos com Inteligência Artificial e assistentes virtuais. Tenho vivência em empresas como InBot, MJV Technology e outras startups, sempre com foco em garantir a excelência dos produtos entregues.
+
+Tenho domínio de ferramentas como Postman, Cypress, Selenium, Cucumber (BDD) e conhecimento prático de JavaScript, Java e SQL. Participo ativamente de times ágeis, contribuindo com a elaboração de testes, rastreio de defeitos, e análise de métricas de qualidade ao longo das sprints.
+
+Além da graduação em Sistemas de Informação (IFNMG), estou cursando Pós-Graduação em Automação de Testes e mantenho um portfólio técnico atualizado no GitHub.
+
+🔧 Ferramentas: Jira, Trello, ClickUp, Octane, Loop
+📊 Metodologias: Scrum, Kanban
+📚 Certificações: Cypress, Selenium, Testes API, Segurança e LGPD
+
+Resolução de Problemas: Capacidade de identificar e resolver problemas complexos de forma eficaz, garantindo a entrega de software de alta qualidade.
+
+Soft Skills: Proatividade, Criatividade, Pensamento Crítico, Flexibilidade E Resiliência e Trabalho Em Equipe..<p align="center">
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rosanepaixao&theme=radical&mode=weekly" />
